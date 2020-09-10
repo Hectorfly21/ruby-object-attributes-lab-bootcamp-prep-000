@@ -7,4 +7,3 @@ class Dog
    @bread = breed
   end
 end
-    

@@ -4,6 +4,9 @@ class Dog
 end
 
  def breed=(breed)
-   @bread = breed
+   @breed = breed
   end
 end
+
+puts name.new
+

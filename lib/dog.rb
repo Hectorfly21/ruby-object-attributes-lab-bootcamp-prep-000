@@ -9,3 +9,4 @@ end
 end
 
 puts name.new
+puts breed.new

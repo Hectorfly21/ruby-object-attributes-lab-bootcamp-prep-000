@@ -6,11 +6,10 @@ class Person
     @name
   end
  def job=(job)
-   @jog = job
+   @job = job
  end
  def job
     @job
   end
 end
-name = Person.new
-job = Person.new
+

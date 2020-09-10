@@ -12,3 +12,5 @@ class Person
     @job
   end
 end
+name = Person.new
+job = Person.new

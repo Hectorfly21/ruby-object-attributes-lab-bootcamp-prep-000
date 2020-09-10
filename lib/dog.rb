@@ -9,4 +9,3 @@ end
 end
 
 puts name.new
-
